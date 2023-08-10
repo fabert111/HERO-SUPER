@@ -4,7 +4,7 @@ const Schema = mongoose.Schema
 const HeroSchema = new Schema ({
     first_name: {
         type:String,
-        require: true,
+        require: true, 
         maxLength:100
     },
     faction:{
