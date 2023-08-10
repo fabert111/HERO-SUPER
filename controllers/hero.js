@@ -17,7 +17,7 @@ const controllerHero = {
         }
     },
     getHeroes: async (req,res) =>{
-        try{
+        try{ 
             const heros = await Hero.find({})
             res.json(heros)
         }catch(err){
