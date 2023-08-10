@@ -98,9 +98,3 @@ con el siguiente esquema de json:
 localhost:3005/api/hero/delete/:id
 ```
 
-## Contacto
-
-Si tienes alguna pregunta, sugerencia o deseas obtener el workbook para desarrollar este proyecto, no dudes en contactarme a través de: [jsanchez@educamas.com.co](jsanchez@educamas.com.co).
-
-
-# HERO-SUPER
